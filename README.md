@@ -89,6 +89,7 @@ Achiziția continuă se desfășoară până la apăsarea butonului STOP sau pâ
 ---
 ### Arhitectură
 
+```
 Proiect DAQ LabVIEW
         |
         +-----------------------+
@@ -109,6 +110,7 @@ dispozitivului DAQ          analogică
                        Grafic formă de undă
                                 |
                           DAQmx Oprire
+```
 
 ## Tehnologii și instrumente
 
@@ -288,6 +290,7 @@ The acquisition continues until the STOP button is pressed or an error occurs.
 
 ### Architecture
 
+```
 LABVIEW DAQ PROJECT
         |
         +-----------------------+
@@ -308,6 +311,7 @@ LABVIEW DAQ PROJECT
                           Waveform Graph
                                 |
                           DAQmx Clear Task
+```
 
 ## Technologies and Tools
 
